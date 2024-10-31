@@ -13,5 +13,5 @@
 - University of Connecticut
 
 # Work History
--Graduate Research Assistant
--Doctoral Student
+- Graduate Research Assistant
+- Doctoral Student
