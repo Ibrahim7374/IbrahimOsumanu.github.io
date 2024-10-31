@@ -5,9 +5,13 @@
 - Description
 - Links
 
-###Education
+### Project 2
+- Description
+- Links
+  
+# Education
 - University of Connecticut
 
-###Work History
+# Work History
 -Graduate Research Assistant
 -Doctoral Student
