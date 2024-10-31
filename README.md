@@ -5,9 +5,9 @@
 - Description
 - Links
 
-#Education
+###Education
 - University of Connecticut
 
-#Work History
+###Work History
 -Graduate Research Assistant
 -Doctoral Student
